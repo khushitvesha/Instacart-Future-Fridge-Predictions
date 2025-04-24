@@ -57,7 +57,7 @@ This analysis allows for:
 
 ## Contributions
 - **Aishwarya Jayant Rauthan:** Data cleaning, Market Basket Analysis.
-- **Khushi Khushi:** Hierarchical Clustering, Market Basket Analysis.
+- **Khushi Khushi:** Hierarchical Clustering, Market Basket Analysis, PCA.
 - **Saachi Dholakia:** EDA, PCA.
 - **Tiancheng Yang:** EDA, K-means Clustering.
 - **Xinyuan Hu:** EDA, K-means Clustering.
